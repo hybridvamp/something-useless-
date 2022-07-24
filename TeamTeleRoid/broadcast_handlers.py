@@ -1,4 +1,4 @@
-# (c) @RoyalKrrishna
+# (c) @telegram
 
 import time
 import string

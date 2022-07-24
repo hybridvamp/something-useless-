@@ -1,4 +1,4 @@
-# (c) @Royalkrrishna
+# (c) @telegram
 
 import datetime
 import motor.motor_asyncio
